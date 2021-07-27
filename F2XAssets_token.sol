@@ -2,9 +2,9 @@
 //SPDX-License-Identifier: MIT
 
 /**
-* @title Free2ex stablecoin smart contract
+* @title Free2ex smart contract for tokenized assets
 * @author Free2ex
-* The smart contract realizes stablecoin functionality
+* The smart contract realizes tokenized assets functionality
 */
 
 pragma solidity ^0.8.2;
